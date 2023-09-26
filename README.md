@@ -1,1 +1,1 @@
-"# tif_to_jpeg_python" 
+# This is the Python Script for changing tif to jpeg formate
